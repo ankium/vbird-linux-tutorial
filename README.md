@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
+鸟哥的Linux私房菜!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+本仓库含有《鸟哥的Linux私房菜》书中各章节的Shell脚本代码片段！
